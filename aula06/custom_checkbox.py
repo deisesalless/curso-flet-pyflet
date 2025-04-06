@@ -18,11 +18,11 @@ class Checkbox(ft.Row):
             self.delete_button
         ]
 
-        def edit(self, e):
-            pass
+    def edit(self, e):
+        pass
 
-        def save(self, e):
-            pass
+    def save(self, e):
+        pass
 
-        def delete(self, e):
-            pass
+    def delete(self, e):
+        pass
